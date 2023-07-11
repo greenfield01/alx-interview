@@ -3,9 +3,8 @@
 
 
 def minOperations(n):
-    """Returns an integer.
-        if n is imposible to achieve, return 0.
-    """
+    """Returns an integer. if n is imposible to achieve, return 0."""
+
     if not isinstance(n, int):
         return 0
     numOperations = 0
