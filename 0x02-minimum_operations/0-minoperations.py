@@ -3,7 +3,7 @@
 
 
 def minOperations(n):
-    """ Returns an integer.
+    """Returns an integer.
         if n is imposible to achieve, return 0.
     """
     if not isinstance(n, int):
