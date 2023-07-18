@@ -42,3 +42,4 @@ try:
 except KeyboardInterrupt:
     print_status(status_dict, file_size)
     raise
+
